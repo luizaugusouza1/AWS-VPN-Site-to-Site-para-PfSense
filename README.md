@@ -26,30 +26,37 @@ A VPN foi configurada em **modo Route-Based**, garantindo maior flexibilidade de
 ## 🖼️ Imagens do Projeto
 
 ### 🔐 VPN AWS Site-to-Site + pfSense
-
-![AWS VPN Site to Site](./images/imagem (1).jpg)
+<p align="center">
+  <img src="images/imagem (1).jpg" width="700">
+</p>
 
 ---
 
 ### 📊 Status do IPsec no pfSense
 Conexão estabelecida com **duas fases (Phase 1 e Phase 2)** ativas e tráfego fluindo corretamente.
-
-![pfSense IPsec Status](./images/imagem (2).png)
+<p align="center">
+  <img src="images/imagem (2).png" width="700">
+</p>
 
 ---
 
 ### ☁️ AWS – Virtual Private Gateway e VPN
 Visualização da VPN ativa no console da AWS.
-
-![AWS VPN Gateway](./images/imagem (3).png)
-![AWS VPN Gateway](./images/imagem (4).png)
+<p align="center">
+  <img src="images/imagem (3).png" width="700">
+</p>
+<p align="center">
+  <img src="images/imagem (4).png" width="700">
+</p>
 
 ---
 
 ### 🗺️ Diagrama da Arquitetura
 Fluxo completo da comunicação entre rede local e AWS VPC privada.
+<p align="center">
+  <img src="images/imagem (1).png" width="800">
+</p>
 
-![Arquitetura AWS VPN](./images/imagem (1).png)
 
 ---
 
